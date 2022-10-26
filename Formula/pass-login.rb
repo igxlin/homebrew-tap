@@ -1,8 +1,8 @@
 class PassLogin < Formula
   desc "Pass extension for managing login names"
-  homepage "https://github.com/igxlin/pass-login"
-  url "https://github.com/igxlin/pass-login/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "b708cd9256bcc9e9715edb9eb43758c958242b6d8b2d46ae5211a9edbde171ba"
+  homepage "https://git.gxlin.org/pass-login/"
+  url "https://git.gxlin.org/pass-login/snapshot/pass-login-0.1.1.tar.gz"
+  sha256 "5556208356fea31d35315c36f95a7eab3f53da1bcf1c8cb839a52b6b9c4bc671"
   license "GPL-3.0"
 
   depends_on "gnupg"
